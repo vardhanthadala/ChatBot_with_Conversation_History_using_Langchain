@@ -1,4 +1,4 @@
-# Building a Chatbot
+# Chatbot with Conversation History
 
 This project demonstrates how to design and implement an **LLM-powered
 chatbot** using [LangChain](https://www.langchain.com/). The chatbot can
@@ -68,10 +68,4 @@ Make sure you have a Python 3.9+ environment (recommended with `venv`).
 
 ------------------------------------------------------------------------
 
-## Notes
 
--   This tutorial focuses on **LLM-only conversations**.\
--   For more advanced concepts, check out:
-    -   **Conversational RAG**: Integrating external data sources.
-    -   **Agents**: Chatbots that can perform actions beyond
-        conversation.
